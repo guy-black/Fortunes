@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Fortunes/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Fortunes/static/js/main.ae17fb87.chunk.js",
-    "main.js.map": "/Fortunes/static/js/main.ae17fb87.chunk.js.map",
+    "main.js": "/Fortunes/static/js/main.0539415a.chunk.js",
+    "main.js.map": "/Fortunes/static/js/main.0539415a.chunk.js.map",
     "runtime-main.js": "/Fortunes/static/js/runtime-main.bb2f3581.js",
     "runtime-main.js.map": "/Fortunes/static/js/runtime-main.bb2f3581.js.map",
     "static/js/2.bc9584d7.chunk.js": "/Fortunes/static/js/2.bc9584d7.chunk.js",
     "static/js/2.bc9584d7.chunk.js.map": "/Fortunes/static/js/2.bc9584d7.chunk.js.map",
     "index.html": "/Fortunes/index.html",
-    "precache-manifest.6b881287e3f4a409346dadfdb6104a7f.js": "/Fortunes/precache-manifest.6b881287e3f4a409346dadfdb6104a7f.js",
+    "precache-manifest.cad4b67f616686115395531385402eb6.js": "/Fortunes/precache-manifest.cad4b67f616686115395531385402eb6.js",
     "service-worker.js": "/Fortunes/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Fortunes/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.bc9584d7.chunk.js.LICENSE.txt": "/Fortunes/static/js/2.bc9584d7.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bb2f3581.js",
     "static/js/2.bc9584d7.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ae17fb87.chunk.js"
+    "static/js/main.0539415a.chunk.js"
   ]
 }
